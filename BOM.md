@@ -1,3 +1,9 @@
+his list only for reference.
+Under special situations, parts will updated to same level and quality products.
+If there has any changes, will update immediately here.
+SIBOOR Young V0.1 Revision 1.1
+
+
 | Category         | Description                                              | brand              | Qty | update time |
 |------------------|----------------------------------------------------------|--------------------|-----|-------------|
 | Fasteners        | 3x6x0.5 Shim Washer                                      | /                  | 35  | 4/1/23      |
