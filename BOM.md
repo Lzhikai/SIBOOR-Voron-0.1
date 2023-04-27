@@ -63,7 +63,7 @@
 |                  | Black Matte Magnetic Sticker 120×1220mm                  | /                  | 1   | 4/1/23      |
 | Panels           | Acrylic Sheet Clear - 212x230x2.5mm                      | unofficial version | 2   | 4/1/23      |
 |                  | Acrylic Sheet Clear - 212x239x2.5mm                      | /                  | 1   | 4/1/23      |
-|                  | Rear Panel 212mm x 248mm                                 | unofficial version | 1   | 4/1/23      |
+|                  | Rear Panel 212mm x 248mm ( [See DXF](https://github.com/Lzhikai/SIBOOR-Voron-0.1/blob/main/SIBOOR%20V0.1%20(Youth%20Edition)%20cutting%20drawings.dwg))                                | unofficial version | 1   | 4/1/23      |
 |                  | Deck Panel 3mm thick ( [See DXF](https://github.com/Lzhikai/SIBOOR-Voron-0.1/blob/main/SIBOOR%20V0.1%20(Youth%20Edition)%20cutting%20drawings.dwg))                           | unofficial version | 1   | 4/1/23      |
 |                  | Motor Panel 3mm thick ( [See DXF](https://github.com/Lzhikai/SIBOOR-Voron-0.1/blob/main/SIBOOR%20V0.1%20(Youth%20Edition)%20cutting%20drawings.dwg))                          | unofficial version | 1   | 4/1/23      |
 |                  | Mid Panel 3mm thick ( [See DXF](https://github.com/Lzhikai/SIBOOR-Voron-0.1/blob/main/SIBOOR%20V0.1%20(Youth%20Edition)%20cutting%20drawings.dwg))                            | /                  | 1   | 4/1/23      |
