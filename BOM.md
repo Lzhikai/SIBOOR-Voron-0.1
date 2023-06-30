@@ -25,7 +25,7 @@
 |                  | M3x40 BHCS                                               | /                  | 10  | 4/1/23      |
 |                  | M2x10 Self Tapping Screws for Plastic                    | /                  | 15  | 4/1/23      |
 |                  | M3 Brass heatstake inserts - short M3x5x4                | /                  | 50  | 4/1/23      |
-|                  | Makerbeam XL M3 t-nut                                    | /                  | 2   | 4/1/23      |
+|                  | M3 t-nut                                                 | /                  | 2   | 4/1/23      |
 |                  | yellow die springs 8x4x25mm                              | /                  | 3   | 4/1/23      |
 |                  | 6mm x 3mm Round Neodymium Magnets                        | /                  | 8   | 4/1/23      |
 |                  | Bondtech BMG Extruder Kit                                | /                  | 1   | 4/1/23      |
