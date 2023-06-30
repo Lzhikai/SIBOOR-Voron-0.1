@@ -43,7 +43,7 @@
 |                  | NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8 | SIBOOR             | 1   | 4/1/23      |
 |                  | NEMA14 36mm pancake Motor with 10 tooth gear             | MOON‘S             | 1   | 4/1/23      |
 |                  | 3010 blower fans 24V                                     | GEEK               | 2   | 4/1/23      |
-|                  | 3010 axial fan 24V                                       | GEEK               | 2   | 4/1/23      |
+|                  | 3007 axial fan 24V                                       | GEEK               | 1   | 4/1/23      |
 |                  | C13 Power Cord                                           | /                  | 1   | 4/1/23      |
 |                  | IEC320 C14 inlet                                         | /                  | 1   | 4/1/23      |
 |                  | Micro Switch                                             | /                  | 1   | 4/1/23      |
