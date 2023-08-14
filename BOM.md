@@ -47,7 +47,7 @@
 |                  | C13 Power Cord                                           | /                  | 1   | 4/1/23      |
 |                  | IEC320 C14 inlet                                         | /                  | 1   | 4/1/23      |
 |                  | Micro Switch                                             | /                  | 1   | 4/1/23      |
-|                  | E3d v6 Hotend                                            | SIBOOR             | 1   | 4/1/23      |
+|                  | v6 Hotend                                            | SIBOOR             | 1   | 4/1/23      |
 |                  | 24V 40W Heater Cartridge (1M)                            | /                  | 1   | 4/1/23      |
 |                  | Hotend thermistor(1M)                                    | /                  | 1   | 4/1/23      |
 |                  | High Flex Wire 20gauge  （35CM）                           | /                  | 2   | 4/1/23      |
